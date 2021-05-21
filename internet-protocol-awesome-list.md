@@ -31,3 +31,5 @@ You can create pull requests to contribute to this list.
 - [HTTP Authentication](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
 - [HTTP Redirections](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
 - [Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+- [OAuth 2.0](https://datatracker.ietf.org/doc/html/rfc6749)
+- [Google's OAuth 2.0 Policy & Recommendations](https://developers.google.com/identity/protocols/oauth2)
