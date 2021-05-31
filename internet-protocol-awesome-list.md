@@ -33,3 +33,4 @@ You can create pull requests to contribute to this list.
 - [Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 - [OAuth 2.0](https://datatracker.ietf.org/doc/html/rfc6749)
 - [Google's OAuth 2.0 Policy & Recommendations](https://developers.google.com/identity/protocols/oauth2)
+- [Where to Store Access Tokens and Refresh Tokens on the Client Side](https://stackoverflow.com/questions/57650692/where-to-store-the-refresh-token-on-the-client#:~:text=Access%20token%20and%20refresh%20token,to%20the%20Resource%20Server%20anyway.)
